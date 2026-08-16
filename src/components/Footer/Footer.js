@@ -1,6 +1,6 @@
 import React from 'react';
 // import { personalInfo } from '../../data/resumeData';
-import { FaLinkedin } from 'react-icons/fa';
+// import { FaLinkedin } from 'react-icons/fa';
 import './Footer.css';
 
 function Footer() {
