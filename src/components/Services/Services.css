@@ -1,0 +1,13 @@
+.svc-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:1.2rem; }
+
+.svc-card {
+  background:var(--glass); border:1px solid var(--border);
+  border-radius:8px; padding:1.5rem; text-align:center; transition:.3s;
+}
+.svc-card:hover {
+  border-color:var(--cyan); box-shadow:0 0 20px rgba(0,255,255,.12);
+  transform:translateY(-3px);
+}
+.svc-icon  { font-size:2rem; margin-bottom:.8rem; }
+.svc-title { font-family:'Orbitron',monospace; font-size:.85rem; color:#fff; margin-bottom:.6rem; }
+.svc-desc  { color:#888; font-size:.82rem; line-height:1.5; }
