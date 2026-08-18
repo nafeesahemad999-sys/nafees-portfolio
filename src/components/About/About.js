@@ -27,7 +27,7 @@ function CountUp({ target, suffix = '' }) {
   return <span ref={ref}>{count}{suffix}</span>;
 }
 
-function About() {
+function About()
   return (
     <section id="about">
       <div className="section-wrapper">

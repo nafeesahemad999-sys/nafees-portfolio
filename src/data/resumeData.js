@@ -5,7 +5,7 @@
 export const personalInfo = {
   name:       "Nafees Ahemad",
   fullName:   "Nafees Ahemad Mohammad Idrees",
-  title:      "Full Stack Developer & Web Engineer",
+  title:      "Full Stack Developer & Web Designer",
   initials:   "NA",
   email:      "nafeesahemad999@gmail.com",
   phone:      "+91-9021077731",
@@ -20,7 +20,7 @@ export const personalInfo = {
   aboutParagraphs: [
     `I'm <strong>Nafees Ahemad Mohammad Idrees</strong>, a BCA graduate from
      G.H. Raisoni Institute of Engineering & Business Management, Jalgaon,
-     with a CGPA of 6.68.`,
+     with a CGPA of 6.98.`,
     `I specialize in building responsive, user-friendly web applications using
      modern technologies. From e-commerce platforms and music apps to pharmacy
      management systems, I've shipped full-stack projects end-to-end.`,
@@ -32,7 +32,7 @@ export const personalInfo = {
     { id: "projects", label: "Projects Built",   target: 4,  suffix: ""  },
     { id: "certs",    label: "Certifications",   target: 4,  suffix: ""  },
     { id: "stack",    label: "Tech Stack Items", target: 12, suffix: "+" },
-    { id: "grade",    label: "HSC Percentage",   target: 84, suffix: "%" },
+    { id: "BCA",      label: "BCA CGPA",         target: 6.98, suffix: "" },
   ],
 };
 
@@ -136,7 +136,7 @@ export const educationTimeline = [
     period: "2021 – 2024",
     title:  "Bachelor of Computer Applications (BCA)",
     sub:    "G.H. Raisoni Institute of Engineering & Business Management, Jalgaon",
-    detail: "CGPA: 6.68 | Specialized in web development, programming, and software engineering fundamentals.",
+    detail: "CGPA: 69.87 | Specialized in web development, programming, and software engineering fundamentals.",
   },
   {
     type:   "edu",
